@@ -2,7 +2,7 @@
 layout: post
 title: An Introduction to Promises
 permalink: An-Introduction-to-Promises
-tags: javascript, promises, callbacks
+tags: [javascript, promises, callbacks]
 ---
 
 Promises, similar to [callbacks](http://callbackhell.com) provide a method for asynchronous programming in javascript. Node.js is a single threaded environment. So, if you have a long running instruction, for instance, requesting data from somewhere outside of your application (like an API or a database), then you should be using some method to ensure that while you are waiting on this data, your application can continue processing other instructions. Promises are one such possiblity.
