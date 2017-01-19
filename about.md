@@ -16,6 +16,6 @@ Want an easy (and free!) way to host a static site? Check out [this guide by Sma
 
 ### Contact Me
 
-[Check out my resume](/docs/SherrickResume2017.pdf) [updated 1/2017]
+[check out my resume](/docs/SherrickResume2017.pdf) [updated 1/2017]
 
 [email me](mailto:agsherrick@gmail.com): agsherrick [at] {gmail} [dot] {com}
