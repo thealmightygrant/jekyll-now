@@ -5,7 +5,7 @@ permalink: Notes-on-High-Performance-Browser-Networkin Notes-on-High-Performance
 tags: [networking, http, performance]
 ---
 
-I've started reading this book by [Ilya Grigorik](https://www.igvita.com/) that I found while strolling along in Twitter-land for smart/clever web engineers that I can learn from. I've always been really interested in the underpinnings of the web and networking. Now-a-days, terms like progressive web apps (PWAs) and performance (PERFORMANCE) and really really fast web app (RRFWAs) are commonplace, but I think that very few people working in the technology industry truly understand the technologies behind browser performance. I'm going to be one of those very few people :-D.
+I've started reading this book by [Ilya Grigorik](https://www.igvita.com/) that I found while strolling along in Twitter-land for smart/clever web engineers that I can learn from. I've always been really interested in the underpinnings of the web and networking, and it's high time that I scratched that itch. Now-a-days, terms like progressive web apps (PWAs) and performance (PERFORMANCE) and really really fast web app (RRFWAs) are commonplace, but I think that very few people working in the technology industry truly understand the technologies behind browser performance. I'm going to be one of those very few people :-D.
 
 I'll turn this into a series of blog posts eventually. I think I'm going to call it "Networking for the Curious" or "Networking for the Dumb and/or Lazy". ;-) For now, it's just a bunch of notes, but if it's helpful to anyone, then enjoy reading them.
 <br><br>
